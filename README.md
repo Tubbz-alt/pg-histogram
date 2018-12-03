@@ -68,4 +68,4 @@ $ gem install pg-histogram
 Contributions are accepted on [GitHub](https://github.com/) via the fork and pull request workflow. See [here](https://help.github.com/articles/using-pull-requests/) for more information.
 
 ## License
-The gem is available as open source under the terms of the [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause).
+The gem is available as open source under the terms of [The 2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause).

@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/pnnl/pg-histogram"
   s.summary     = "PostgreSQL histograms for ActiveRecord relations"
   s.description = "PostgreSQL histograms for ActiveRecord relations"
-  s.license     = "BSD-3-Clause"
+  s.license     = "BSD-2-Clause"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
